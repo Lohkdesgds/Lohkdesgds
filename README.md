@@ -1,16 +1,29 @@
-## Hi there 👋
+### ⇋ Ernesto Luis Malta Rodrigues Filho ⇌
 
-<!--
-**Lohkdesgds/Lohkdesgds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr />
 
-Here are some ideas to get you started:
+✨ A fancy software developer, engineer, in electronics, but also a photographer, youtuber, and much more?<br/>
+📌 Also known as Lohk on other social media stuff<br/>
+🎓 Electronic Engineer!<br/>
+📈 Programming is my passion. I love it.<br/>
+🌐 My personal Github page [here](https://lohkat.github.io)<br/>
+☕ Loves coffee, tea. Let's go!<br/>
+🔘 Pronouns: he/him<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr />
+
+### Languages
+
+- Portuguese (Brazil)
+- English
+- C++
+- C
+- Java
+- JavaScript (+ CSS, React or barebones)
+- Python
+- PHP- 
+- SQL
+- Go
+- Assembly (ARM)
+- VHDL
+- (more coming or I forgot to put them here)
